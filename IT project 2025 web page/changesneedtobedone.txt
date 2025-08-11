@@ -1,0 +1,4 @@
+script  change all documet.write in all 
+password strenthg 
+change (report) lable in sction after href
+change (Quize) change lable  after href
